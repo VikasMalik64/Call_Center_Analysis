@@ -1,6 +1,6 @@
 # 📞 Call Center Analysis
 
-💡 Project Description
+# 💡 Project Description
 
 This project entails importing and transforming data sets to generate insightful dashboards that highlight key performance indicators (KPIs) such as call volume, average handling time, and customer satisfaction rates to identify opportunities for improvement and operational efficiency.
 
